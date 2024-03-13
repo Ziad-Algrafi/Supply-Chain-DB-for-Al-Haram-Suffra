@@ -15,3 +15,6 @@ This repository contains the source code and database schema for managing the su
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ziad-Algrafi/Supply-Chain-DB-for-Al-Haram-Suffra.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
